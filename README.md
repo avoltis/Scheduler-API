@@ -8,3 +8,4 @@ Demo https://hours-1.apphb.com/swagger/index.html
 run the proj file from visual studio
 
 Runs the app in the development mode.
+open http://localhost:41343/swagger
